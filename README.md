@@ -1,5 +1,4 @@
-# The Object Funeral Service
-
+#CHARAMAM
 Build a polished, highly interactive web app called “The Object Funeral Service” — a completely useless but hilarious social platform where people photograph ordinary objects and create dramatic memorials/funerals for them.
 
 The concept:
